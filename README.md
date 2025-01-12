@@ -1,5 +1,7 @@
 ## Mohit Mozumder
 Department of CSE, East West University, Dhaka,Bangladesh
+- 📧 Email: [mohitmozumder@gmail.com](mailto:mohitmozumder@gmail.com)
+ 
 ## Skills
 - **Programming Languages:** PHP, JavaScript
 - **Frameworks/Libraries:** Laravel, React
