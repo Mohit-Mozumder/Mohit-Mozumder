@@ -1,5 +1,5 @@
 ## Mohit Mozumder
-Department of CSE, East West University, Dhaka,Bangladesh
+Graduated From Department of CSE, East West University, Dhaka,Bangladesh
 - 📧 Contact: [mohitmozumder@gmail.com](mailto:mohitmozumder@gmail.com)
  
 ## Skills
